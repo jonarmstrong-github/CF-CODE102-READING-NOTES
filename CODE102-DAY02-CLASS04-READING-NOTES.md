@@ -1,8 +1,8 @@
 # CODE FELLOWS - CODE 102
 
-## DAY 0# CLASS 0#
+## DAY 02 CLASS 04
 
-## [CLASS TITLE](CLASS GITHUB LINK)
+## [Structure Web Pages with HTML](https://github.com/codefellows/seattle-code-102d37/tree/main/class-04)
 
 ## AGENDA
 

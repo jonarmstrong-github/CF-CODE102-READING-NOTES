@@ -1,8 +1,8 @@
 # CODE FELLOWS - CODE 102
 
-## DAY 0# CLASS 0#
+## DAY 01 CLASS 02
 
-## [CLASS TITLE](CLASS GITHUB LINK)
+## [The Coder's Computer](https://github.com/codefellows/seattle-code-102d37/tree/main/class-02)
 
 ## AGENDA
 1. Review of previous class
@@ -18,9 +18,35 @@
 
 ## NOTES
 
+I JUST COPIED AND PASTED A BUNCH OF CODE INTO MY COMPUTER THAT PERFORMED TASKS FAR BEYOND MY CURRENT LEVEL OF UNDERSTANDING.  THIS IS A SECURITY AND STABILITY NIGHTMARE.  WILL I HAVE CODEFELLOWS SUPPORT FOR GLITCHES/BUGS/UPDATES/SECURITY/REMOVAL AFTER I COMPLETE THE PROGRAM OR IF I LEAVE THE PROGRAM.  PLEASE RETHINK THE NECESSITY OF INSTALLING A LINUX SHELL ON WINDOWS MACHINES TO PERFORM GIT COMMANDS THAT THERE IS A DESKTOP APPLICATION FOR.
+
 ## LINKS
 
 ## VOCABULAY
+
+CLI (Command Line Interface) - A text based way of interacting with the computer.
+
+Terminal - The shell where text or commands are intup to the computer and output is logged.
+
+GUI (Graphical User Interface) - A way of interacting with the computer with objects.
+
+IDE (Integrated Development Environment) - a place where people create objects to assist in interaction with a computer.
+
+VS Code - a high powered IDE.
+
+Abstraction - the act of hiding information that a computer operator doesn't need to interact with the computer in the ways that they need to.
+
+## New Shell Commands
+
+git clone [repository link] - creates a local clone of a repository
+
+git status - displays the state of the working directory and the staging area.
+
+git add [filename] - add files to the commit
+
+git commit -m “type a message summarizing changes” (50 characters or less)
+
+git push - sends the commit to GitHub
 
 ## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
 

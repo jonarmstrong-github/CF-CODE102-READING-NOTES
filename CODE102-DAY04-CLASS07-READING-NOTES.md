@@ -1,8 +1,8 @@
 # CODE FELLOWS - CODE 102
 
-## DAY 0# CLASS 0#
+## DAY 04 CLASS 07
 
-## [CLASS TITLE](CLASS GITHUB LINK)
+## [Programming with JavaScript](https://github.com/codefellows/seattle-code-102d37/tree/main/class-07)
 
 ## AGENDA
 

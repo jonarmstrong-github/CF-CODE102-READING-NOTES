@@ -1,8 +1,8 @@
 # CODE FELLOWS - CODE 102
 
-## DAY 0# CLASS 0#
+## DAY 05 CLASS 09
 
-## [CLASS TITLE](CLASS GITHUB LINK)
+## [Career Coaching](https://github.com/codefellows/seattle-code-102d37/tree/main/class-09)
 
 ## AGENDA
 

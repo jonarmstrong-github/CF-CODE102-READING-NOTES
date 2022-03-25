@@ -1,8 +1,8 @@
 # CODE FELLOWS - CODE 102
 
-## DAY 0# CLASS 0#
+## DAY 05 CLASS 10
 
-## [CLASS TITLE](CLASS GITHUB LINK)
+## [Final Exam & Next Steps](https://github.com/codefellows/seattle-code-102d37/tree/main/class-10)
 
 ## AGENDA
 

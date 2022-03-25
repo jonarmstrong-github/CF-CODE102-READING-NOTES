@@ -1,8 +1,8 @@
 # CODE FELLOWS - CODE 102
 
-## DAY 0# CLASS 0#
+## DAY 03 CLASS 06
 
-## [CLASS TITLE](CLASS GITHUB LINK)
+## [Dynamic Web Pages with JavaScript](https://github.com/codefellows/seattle-code-102d37/tree/main/class-06)
 
 ## AGENDA
 

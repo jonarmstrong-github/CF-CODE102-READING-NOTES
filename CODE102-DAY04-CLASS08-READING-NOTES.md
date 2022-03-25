@@ -1,8 +1,8 @@
 # CODE FELLOWS - CODE 102
 
-## DAY 0# CLASS 0#
+## DAY 04 CLASS 08
 
-## [CLASS TITLE](CLASS GITHUB LINK)
+## [Computer Logic and Loops](https://github.com/codefellows/seattle-code-102d37/tree/main/class-08)
 
 ## AGENDA
 

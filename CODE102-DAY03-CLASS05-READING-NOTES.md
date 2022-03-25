@@ -1,8 +1,8 @@
 # CODE FELLOWS - CODE 102
 
-## DAY 0# CLASS 0#
+## DAY 03 CLASS 05
 
-## [CLASS TITLE](CLASS GITHUB LINK)
+## [CLASS TITLE](https://github.com/codefellows/seattle-code-102d37/tree/main/class-05)
 
 ## AGENDA
 
