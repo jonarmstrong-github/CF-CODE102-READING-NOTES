@@ -73,16 +73,18 @@ Sandbox learning - a safe place to learn where risks are mitigated.
 
 ## PROBLEMS THAT HAVE TIMED OUT BEFORE RESOLUTION
 
-### This is one paragraph.
-> I cannot figure out how to get Markdown to allow a soft break in a paragraph.  A single break has no effect on formatting at all and allows words and sentences to continue wrapping in a paragraph.  A hard break creates a space but also breaks things like shading in blockquotes.
+### Horizontal spacing and background formatting
+> I cannot figure out how to get Markdown to allow a soft break in a paragraph.  A single break has no effect on formatting at all and allows words and sentences to continue wrapping in a paragraph.  A hard break creates a space but also breaks things like shading in blockquotes.Headings have inherent attributes that manipulate line spacing.
 
-### This is three seperate sentences with a soft break inbetween.
+    The text above was one paragraph but this copy below is three seperate sentences with soft breaks inbetween.
+
 > I cannot figure out how to get Markdown to allow a soft break in a paragraph.
 > A single break has no effect on formatting at all and allows words and sentences to continue wrapping in a paragraph.
 > A hard break creates a space but also breaks things like shading in blockquotes.
 > Headings have inherent attributes that manipulate line spacing.
 
-### This is three seperate sentences with a hard break inbetween.
+    This example is three seperate sentences with a hard breaks inbetween.
+
 > I cannot figure out how to get Markdown to allow a soft break in a paragraph.
 
 > A single break has no effect on formatting at all and allows words and sentences to continue wrapping in a paragraph.
@@ -91,7 +93,8 @@ Sandbox learning - a safe place to learn where risks are mitigated.
 
 > Headings have inherent attributes that manipulate line spacing.
 
-### This is three seperate headings with a hard break inbetween.
+    This next example is three seperate headings with a hard break inbetween.
+
 > #### I cannot figure out how to get Markdown to allow a soft break in a paragraph.
 
 > #### A single break has no effect on formatting at all and allows words and sentences to continue wrapping in a paragraph.
@@ -100,11 +103,14 @@ Sandbox learning - a safe place to learn where risks are mitigated.
 
 > #### Headings have inherent attributes that manipulate line spacing.
 
-### This is three seperate headings with a hard break inbetween.
+    This last example is three seperate headings with a soft break inbetween.
+
 > #### I cannot figure out how to get Markdown to allow a soft break in a paragraph.
 > #### A single break has no effect on formatting at all and allows words and sentences to continue wrapping in a paragraph.
 > #### A hard break creates a space but also breaks things like shading in blockquotes.
 > #### Headings have inherent attributes that manipulate line spacing.
+
+    These indented bit also seem to have their own inherent horizontal spacing properties.  😒
 
 ## READING NOTES NAVIGATION
 
