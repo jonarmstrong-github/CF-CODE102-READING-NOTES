@@ -1,15 +1,16 @@
+# CODE FELLOWS - CODE 102
 
+## DAY 01 CLASS 00
 
+### [Prework for Code 102: Intro to Software Development](https://github.com/codefellows/seattle-code-102d37/tree/main/prework)
 
+### [Professional Competencies](https://codefellows.github.io/common_curriculum/career_coaching/common/professional-competencies)
 
-
-
-
-
-
-
-
-
+#### [x] Install the lates version of Google Chrome.
+#### [x] Setup Canvas
+#### [x] Setup Slack
+#### [x] Setup GitHub
+#### [x] Consistency
 
 ## READING NOTES NAVIGATION
 
