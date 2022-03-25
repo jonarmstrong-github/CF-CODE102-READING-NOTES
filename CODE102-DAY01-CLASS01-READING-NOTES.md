@@ -4,13 +4,14 @@
 
 ## [Learning. Markdown.](https://github.com/codefellows/seattle-code-102d37/tree/main/class-01)
 
-#### [/] ~~Campus~~ Canvas Orientation & Intros
-#### [x] Learning to Learn
-#### [/] Growth mindset
-#### [x] Demo & Lab
-#### [x] Web Publishing
-#### [x] Markdown
-#### [x] GitHub Pages
+## AGENDA
+1. Campus Orientation & Intros
+1. Learning to Learn
+    - Growth mindset
+    - Demo & Lab
+1. Web Publishing
+    - Markdown
+    - GitHub Pages
 
 ## NOTES
 One screen is not enough to observe a Zoom class and work and reference classroom materials and ....  Switched to Zoom on a tablet half way through the day.  Ordered 84 new monitors.
@@ -28,19 +29,34 @@ ___
 
 ### [The Markdown Guide](https://www.markdownguide.org/)
 
+### [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
 ## VOCABULAY
-Professional Competencies
-Proficiencies
-Canvas
-GitHub
-Slack
-Growth mindset
-Fixed mindset
-Repository
-Markdown
-Web publishing
-Path learning
-Sandbox learning
+Professional Competencies - Abilities desired in coding candidates
+
+Proficiencies - The underlying skills within a Competency
+
+Canvas - Canvas is our course management system for online learning.
+
+GitHub - GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project. Headquartered in California, it has been a subsidiary of Microsoft since 2018.
+
+It is commonly used to host open-source projects. As of November 2021, GitHub reports having over 73 million developers and more than 200 million repositories (including at least 28 million public repositories). It is the largest source code host as of November 2021. [https://en.wikipedia.org/w/index.php?title=GitHub&oldid=1078061884](https://en.wikipedia.org/w/index.php?title=GitHub&oldid=1078061884)
+
+Slack - a communication platform.
+
+Growth mindset - the belief that you can improve yourself.
+
+Fixed mindset - a belief that natural talent or lack there of is drives how we develop or don't more than effort.
+
+Repository - a place where data is stored
+
+Markdown - Markdown is a simple markup language to add formatting to plain text documents.
+
+Web publishing - the process or developing content that exists on the internet.
+
+Path learning - ????
+
+Sandbox learning - a safe place to learn where risks are mitigated.
 
 ## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
 ### Heading syntax requires a space.
