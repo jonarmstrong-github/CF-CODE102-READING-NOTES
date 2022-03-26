@@ -18,20 +18,41 @@
 
 ## NOTES
 
+### Conditional Statements
+    `if` to specify a block of code to be executed, if a specified condition is true
+    `else` to specify a block of code to be executed, if the same condition is false
+    `else if` to specify a new condition to test, if the first condition is false
+
+### Operator placement matters to what will be performed first and stored first
+
+    let x = 3;
+    const y = x++;
+
+    console.log(`x:${x}, y:${y}`);
+
+    // expected output: "x:4, y:3"
+    
+    let a = 3;
+    const b = ++a;
+
+    console.log(`a:${a}, b:${b}`);
+
+    // expected output: "a:4, b:4"
+
 ## LINKS
 
 ## VOCABULAY
-loop
+loop - loops run the same code over and over again with a different value.
 
 for - a statement that will repeat until false (or a specific number of times)
 
 while - a statement that will repeat until true (runs forever until satisfied)
 
-condition
+condition - conditional statements are used to perform different actions based on different conditions.
 
-increment
+increment - an operator (++) that adds one to its operand and returns a new value.
 
-decrement
+decrement - an operator (--) that subtracts one to its operand and returns a new value.
 
 ## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
 

@@ -14,31 +14,48 @@
     - Lab: Refactoring
 
 ## NOTES
+### Function parameters are the names listed in the function's definition. Function arguments are the real values passed to the function. Parameters are initialized to the values of the arguments supplied.
+
+### So many operators
+    JavaScript has the following types of operators and they get complex. 
+
+    Assignment operators
+    Comparison operators
+    Arithmetic operators
+    Bitwise operators
+    Logical operators
+    String operators
+    Conditional (ternary) operator
+    Comma operator
+    Unary operators
+    Relational operators
+
+Go to this page by Mozilla for [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
 ## LINKS
 
 ## VOCABULAY
-Script
+Script - a sequence of instructions that is interpreted or carried out by another program.
 
-Programmatic problem solving
+Programmatic problem solving - I'm guessing: is it using programs to solve problems?
 
-Expression
+Expression - any valid unit of code that resolves to a value.
 
-Operator
+Operator - used to assign values, compare values, perform arithmetic operations, and more.  This is a big deal.
 
-Function
+Function - a block of code designed to perform a particular task.
 
-Declaration
+Declaration - how variables are created
 
-Call
+Call - invokes a function
 
-Parameters
+Parameters - the arguments of a function
 
-Arguments
+Arguments - an object accessible inside functions that contains the values of the arguments passed to that function.
 
-Return value
+Return value - when a value from a function back is passed back to the code that called it by using the return statement.
 
-Refactoring
+Refactoring - the process of changing a piece of code without altering how it works
 
 ## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
 
