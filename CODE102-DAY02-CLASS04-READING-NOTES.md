@@ -5,32 +5,54 @@
 ## [Structure Web Pages with HTML](https://github.com/codefellows/seattle-code-102d37/tree/main/class-04)
 
 ## AGENDA
+1. Review of previous class
+    - Share your learning
+1. HTML
+    - Recap from Code 101
+    - Discussion Exercise
+1. From Mockup to Markup
+    - Demo
+    - Lab: Wireframe and Build
 
 ## NOTES
 
+**"Write commit messages that explain WHY you made your changes, not what the changes were."** (*I missed this stanement in the last class and missed a test question becaue of it.  For some reason other documentation that I found online suggested that commits should explain WHAT was changed not the WHY.*)
+
+
 ## LINKS
+[The Definitive Guide: How To Make Your First Wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+
+[Mozilla Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
+[Mozilla Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+[Mozilla HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## VOCABULAY
 
-HTML / Markup
+HTML (Hypertext Markup Language) -  the standard markup language for documents designed to be displayed in a web browser.
 
-Semantics
+Markup - a standard text-encoding system consisting of a set of symbols inserted in a text document to control its structure, formatting, or the relationship between its parts.
 
-Wireframe
+Syntax - describes which strings of characters in which order comprise a valid program.
 
-Personas
+Semantics - The thing that happens.  The thing being done.  
 
-Meta
+Wireframe - a basic skeleton of a project.
 
-Content
+Personas - the target audience.
 
-Element
+Meta - data that describes data
 
-Tag
+Content - the actual filling of a project.  What is the skeleton made of?
 
-Attribute
+Element - a piece of code.  In HTML everything between tags is an Element.
 
-Structure vs Presentation
+Tag - In HTML a tag is the component of the markup language that tells the browser what to do with otherwise plain text.
+
+Attribute - provide additional information to an element.
+
+Structure vs Presentation - Structure is the semantics and presentation is how it is dressed up.
 
 Symantic elements - elements with a meaning.
 

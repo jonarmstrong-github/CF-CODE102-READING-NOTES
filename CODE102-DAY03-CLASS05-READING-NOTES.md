@@ -5,12 +5,37 @@
 ## [CLASS TITLE](https://github.com/codefellows/seattle-code-102d37/tree/main/class-05)
 
 ## AGENDA
+1. Review of previous class
+    - Share your learning
+1. CSS
+    - Recap from Code 101
+    - Discussion Exercise
+1. From Mockup to Markup
+    - Demo
+    - Lab: Wireframe and Build
 
 ## NOTES
 
 ## LINKS
 
 ## VOCABULAY
+CSS
+
+RGB
+
+HSL
+
+Hex codes
+
+Layout
+
+Rule
+
+Selector
+
+Property & value
+
+Curly braces
 
 ## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
 

@@ -1,6 +1,14 @@
-# CODE102-COMPLETE-READING-NOTES
+# CODE FELLOWS
 
- >## DAY 01
+## CODE 102 COMPLETE READING-NOTES
+
+Welcome to the repository where I store my digital class notes.  Below you will find navigation organized by day and class.  Along with my notes I have attempted to keep track of the adgenda outlined by Code Fellows and vocabulay they have recommended.  You will also find links that I have found useful and problems I have enountered.
+
+#### Regards,
+#### Jon
+
+
+>## DAY 01
 >> ### [CLASS 00](CODE102-DAY01-CLASS00-READING-NOTES.md) - Professional Competency Self-Assessment
 >> ### [CLASS 01](CODE102-DAY01-CLASS01-READING-NOTES.md) - Learning Markdow
 >> ### [CLASS 02](CODE102-DAY01-CLASS02-READING-NOTES.md) - The Coders Computer

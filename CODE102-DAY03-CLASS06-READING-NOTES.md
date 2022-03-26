@@ -5,13 +5,31 @@
 ## [Dynamic Web Pages with JavaScript](https://github.com/codefellows/seattle-code-102d37/tree/main/class-06)
 
 ## AGENDA
+1. Review of previous class
+    - Share your learning
+1. JavaScript
+    - Recap from Code 101
+    - Discussion Exercise
+1. From Mockup to Markup
+    - Demo: Input and Output
+    - Lab: Plan and Build
 
 ## NOTES
 
 ## LINKS
-
 [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+
 ## VOCABULAY
+
+JavaScript
+
+conditionals
+
+operators
+
+data types
+
+variable
 
 ## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
 

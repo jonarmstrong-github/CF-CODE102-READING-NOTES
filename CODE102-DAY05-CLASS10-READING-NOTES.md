@@ -9,8 +9,32 @@
 ## NOTES
 
 ## LINKS
+[W3S JS Assignment](https://www.w3schools.com/js/js_assignment.asp)
+
+[W3S JS Functions](https://www.w3schools.com/js/js_functions.asp)
+
+[W3S JS Looping](https://www.w3schools.com/js/js_loop_for.asp)
+
+[W3S JS Conditions](https://www.w3schools.com/js/js_if_else.asp)
+
+[W3S HTML Tags](https://www.w3schools.com/tags/default.asp)
+
+[W3S CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
+
+[GIT Practice](https://www.katacoda.com/courses/git)
 
 ## VOCABULAY
+Career Coaching
+
+Professional etiquette
+
+Professional pitch
+
+Professional networking
+
+Behavioral interview
+
+Review all professional competencies
 
 ## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
 

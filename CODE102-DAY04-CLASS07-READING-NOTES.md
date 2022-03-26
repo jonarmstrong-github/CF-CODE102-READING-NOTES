@@ -5,12 +5,40 @@
 ## [Programming with JavaScript](https://github.com/codefellows/seattle-code-102d37/tree/main/class-07)
 
 ## AGENDA
+1. Review of previous class
+    - Share your learning
+1. Programming - Input/Process/Output
+    - Robot Exercise
+    - Discussion Reading
+1. Demo With JavaScript Functions
+    - Lab: Refactoring
 
 ## NOTES
 
 ## LINKS
 
 ## VOCABULAY
+Script
+
+Programmatic problem solving
+
+Expression
+
+Operator
+
+Function
+
+Declaration
+
+Call
+
+Parameters
+
+Arguments
+
+Return value
+
+Refactoring
 
 ## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
 

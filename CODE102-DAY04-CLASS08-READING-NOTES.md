@@ -5,18 +5,27 @@
 ## [Computer Logic and Loops](https://github.com/codefellows/seattle-code-102d37/tree/main/class-08)
 
 ## AGENDA
+1. Review of previous class
+    - Share your learning
+1. Computer Logic
+    - Recap: Discussion Reading
+1. Discussion Reading
+    - Read 08: Operators and Loops
+1. Computer Loops
+    - Demo: while and for loops
+    - Truth Tables
+    - Lab: Loop the Loop!
 
 ## NOTES
 
 ## LINKS
 
 ## VOCABULAY
-
 loop
 
-for - a statement that will repeat until false
+for - a statement that will repeat until false (or a specific number of times)
 
-while - a statement that will repeat until true
+while - a statement that will repeat until true (runs forever until satisfied)
 
 condition
 

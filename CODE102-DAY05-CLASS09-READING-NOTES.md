@@ -27,7 +27,6 @@ Career Coaching covers these 7 interrelated areas of your professional growth:
     - Summarizing your previous experience to show your preparedness for your next job
 
 ## LINKS
-
 [Resume Skeleton](https://docs.google.com/document/d/13JsFQtRtOxphmfkn2tj1xdqsGfWyen8vqLRMmYVZyQg/edit?usp=sharing)
 
 [201 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/201/)
@@ -37,7 +36,6 @@ Career Coaching covers these 7 interrelated areas of your professional growth:
 [401 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/401/)
 
 ## VOCABULAY
-
 Career Coaching
 
 Professional etiquette

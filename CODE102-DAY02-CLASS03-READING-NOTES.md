@@ -17,6 +17,8 @@
 
 ## NOTES
 
+* div and span are empty containers!!
+
 ## LINKS
 ### [GitHub Getting Started](https://docs.github.com/en/get-started)
 

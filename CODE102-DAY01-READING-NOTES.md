@@ -3,13 +3,9 @@
 
 
 
-change made online
 
 
 
-
-
-CHANGES MADE LOCALLY
 
 ## READING NOTES NAVIGATION
 
