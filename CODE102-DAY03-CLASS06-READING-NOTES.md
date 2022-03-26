@@ -15,21 +15,72 @@
     - Lab: Plan and Build
 
 ## NOTES
+### Java and Java Script are not the same!!
+
+### I have deduced from the videos in the link below that the original computing architechs were automotive technicians.  Input, store, process, output is identical to the process of internal combustion: suck, squeeze, bang, blow.
+
+### Java Script Conditions and If Statements
+
+    Less than: a < b
+    Less than or equal to: a <= b
+    Greater than: a > b
+    Greater than or equal to: a >= b
+    Equal to a == b
+    Not Equal to: a != b
+
+    `if` to specify a block of code to be executed, if a specified condition is true
+    `else` to specify a block of code to be executed, if the same condition is false
+    `else if` to specify a new condition to test, if the first condition is false
+
+### Javascript understands operators
+    Basic Operators
+    + — Addition
+    - — Subtraction
+    * — Multiplication
+    / — Division
+    (...) — Grouping operator, operations within brackets are executed earlier than those outside
+    % — Modulus (remainder )
+    ++ — Increment numbers
+    -- — Decrement numbers
+
+    Comparison Operators
+    == — Equal to
+    === — Equal value and equal type
+    != — Not equal
+    !== — Not equal value or not equal type
+    > — Greater than
+    < — Less than
+    >= — Greater than or equal to
+    <= — Less than or equal to
+    ? — Ternary operator
+
+    Logical Operators
+    && — Logical and
+    || — Logical or
+    ! — Logical not
+
+    Bitwise Operators
+    & — AND statement
+    | — OR statement
+    ~ — NOT
+    ^ — XOR
+    << — Left shift
+    >> — Right shift
+    >>> — Zero fill right shift
 
 ## LINKS
 [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
 ## VOCABULAY
+JavaScript - a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.  (Not Java - an object-oriented programming language and has a virtual machine platform that allows you to create compiled programs that run on nearly every platform.)
 
-JavaScript
+conditionals - supported logical conditions from mathematics
 
-conditionals
+operators - a symbol used to perform operations
 
-operators
+data types - an immutable value ([its complicated](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures))
 
-data types
-
-variable
+variable - a placeholder for a data type
 
 ## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
 
