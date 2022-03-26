@@ -15,6 +15,10 @@
     - Lab: Wireframe and Build
 
 ## NOTES
+CSS can be utilized inline, internally, or externally.
+
+thing {property:value}
+
 ### Colors
 #### RGB Colors
 Each parameter (red, green, and blue) defines the intensity of the color as an integer between 0 and 255.
@@ -32,6 +36,9 @@ ___
 HSL color values are specified with: hsl(hue, saturation, lightness).  Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, 240 is blue.  Saturation is a percentage value; 0% means a shade of gray and 100% is the full color.  Lightness is also a percentage; 0% is black, 100% is white.
 ___
 
+UX - User experience
+
+UA - User agent or for HTML, CSS, and JS the browser.
 
 ## LINKS
 
