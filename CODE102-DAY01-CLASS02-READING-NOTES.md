@@ -50,7 +50,7 @@ git push - sends the commit to GitHub
 
 ## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
 
-### Nested list items not formatting correctly
+### Nested list items not formatting correctly in Markdown
 > You can create multiple levels of nested lists but it appears to require exactly seven characters (␣␣␣␣␣-␣) before the nested list content if it is going to work correctly.
 >
 > I have modified the Agenda at the top of the page to function correctly.  Below is an example of of my original formatting.
