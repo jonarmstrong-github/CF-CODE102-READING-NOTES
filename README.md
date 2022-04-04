@@ -1,12 +1,11 @@
-# CODE FELLOWS
+# CODE FELLOWS - SOFTWARE DEVELOPMENT PROGRAM
 
-## CODE 102 COMPLETE READING-NOTES
-
-Welcome to the repository where I store my digital class notes.  Below you will find navigation organized by day and class.  Along with my notes I have attempted to keep track of the adgenda outlined by Code Fellows and vocabulay they have recommended.  You will also find links that I have found useful and problems I have enountered.
+Welcome to the repository where I store my digital class notes for Code Fellows.  Below you will find navigation organized by day and class.  Along with my notes personal I have attempted to keep track of the adgenda outlined by Code Fellows and vocabulay they have recommended.  You will also find useful links that have been provided to me and others that I have found useful.  Sometimes I will journal about problems I have enountered and hopefully resolutions.
 
 #### Regards,
 #### Jon
 
+## CODE 102 COMPLETE READING-NOTES
 
 >## DAY 01
 >> ### [CLASS 00](CODE102-DAY01-CLASS00-READING-NOTES.md) - Professional Competency Self-Assessment
@@ -28,3 +27,36 @@ Welcome to the repository where I store my digital class notes.  Below you will 
 > ## DAY 05
 >> ### [CLASS 09](CODE102-DAY05-CLASS09-READING-NOTES.md) - Career Coaching
 >> ### [CLASS 10](CODE102-DAY05-CLASS10-READING-NOTES.md) - Final Exam and Next Steps
+
+## CODE 201 COMPLETE READING-NOTES
+
+>## DAY 01
+>> ### [CLASS 00]
+
+>## DAY 02
+
+>## DAY 03
+
+>## DAY 04
+
+>## DAY 05
+
+>## DAY 06
+
+>## DAY 07
+
+>## DAY 08
+
+>## DAY 09
+
+>## DAY 10
+
+>## DAY 11
+
+>## DAY 12
+
+>## DAY 13
+
+>## DAY 14
+
+>## DAY 15
