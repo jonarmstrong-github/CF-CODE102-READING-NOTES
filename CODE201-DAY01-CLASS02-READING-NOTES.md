@@ -1,0 +1,25 @@
+# CODE FELLOWS - CODE 201
+
+## DAY 01 CLASS 02
+
+
+### [HOME](README.md)
+
+## ADGENDA
+1.  Basics of HTML, CSS, JS
+1.  User input and output
+
+## NOTES
+
+## LINKS
+[How to Write a Git Commit Message](https://cbea.ms/git-commit/)
+
+## VOCABULARY
+
+## THINGS I WANT TO KNOW MORE ABOUT
+
+## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+
+## PROBLEMS THAT HAVE TIMED OUT BEFORE RESOLUTION
+
+### [HOME](README.md)
