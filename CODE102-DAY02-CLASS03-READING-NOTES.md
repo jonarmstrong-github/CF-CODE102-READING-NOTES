@@ -4,7 +4,7 @@
 
 ## [Revisions and the Cloud](https://github.com/codefellows/seattle-code-102d37/tree/main/class-03)
 
-## AGENDA
+## AGENDA 
 1. Review of previous class
     - Share your learning
 1. Sharing Code

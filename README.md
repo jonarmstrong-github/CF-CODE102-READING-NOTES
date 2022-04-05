@@ -8,9 +8,9 @@ Welcome to the repository where I store my digital class notes for Code Fellows.
 ## CODE 102 COMPLETE READING-NOTES
 
 >## DAY 01
->> ### [CLASS 00](CODE102-DAY01-CLASS00-READING-NOTES.md) - Professional Competency Self-Assessment
->> ### [CLASS 01](CODE102-DAY01-CLASS01-READING-NOTES.md) - Learning Markdow
->> ### [CLASS 02](CODE102-DAY01-CLASS02-READING-NOTES.md) - The Coders Computer
+>> ### [CLASS 00](CODE201-DAY01-CLASS00-READING-NOTES.md) - Professional Competency Self-Assessment
+>> ### [CLASS 01](CODE201-DAY01-CLASS01-READING-NOTES.md) - Learning Markdow
+>> ### [CLASS 02](CODE201-DAY01-CLASS02-READING-NOTES.md) - The Coders Computer
 
 > ## DAY 02
 >> ### [CLASS 03](CODE102-DAY02-CLASS03-READING-NOTES.md) - Revisions and the Cloud
@@ -31,9 +31,11 @@ Welcome to the repository where I store my digital class notes for Code Fellows.
 ## CODE 201 COMPLETE READING-NOTES
 
 >## DAY 01
->> ### [CLASS 00]
+>> ### [CLASS 00](CODE201-DAY01-CLASS00-READING-NOTES.md)
+>> ### [CLASS 01](CODE201-DAY01-CLASS01-READING-NOTES.md)
 
 >## DAY 02
+>> ### [CLASS 02](CODE201-DAY02-CLASS02-READING-NOTES.md)
 
 >## DAY 03
 
