@@ -11,6 +11,14 @@
 
 ## NOTES
 
+### HTML & CSS:
+#### CHAPTER 2:
+#### CHAPTER 10:
+
+### JAVASCRIPT:
+#### CHAPTER 2:
+#### CHAPTER 4:
+
 ## LINKS
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 

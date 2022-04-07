@@ -17,6 +17,21 @@ Scripts go last in the body.
 
 Inline styling wins over all others.
 
+### New Submission Instructions  `(`Copied from Canvas`)`
+> Go to https://gist.github.com.
+> 
+> In the “Gist description…” field, put your name.
+> 
+> In the “Filename including extension…” field put ‘index.html’.
+> 
+> Copy-paste your code into the big input field for the Gist.
+> 
+> Select the button that says “Create secret gist”.
+> 
+> Choose the “Share” option in the drop down list next to the link.
+> 
+> Copy the link from the Gist screen for submission in the URL field below.
+
 ## LINKS
 
 [Emmet 2.0 in Visual Studio Code](https://code.visualstudio.com/blogs/2017/08/07/emmet-2.0)
