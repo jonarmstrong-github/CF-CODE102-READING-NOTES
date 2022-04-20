@@ -22,7 +22,7 @@ I JUST COPIED AND PASTED A BUNCH OF CODE INTO MY COMPUTER THAT PERFORMED TASKS F
 
 ## LINKS
 
-## VOCABULAY
+## VOCABULARY
 
 CLI (Command Line Interface) - A text based way of interacting with the computer.
 
@@ -48,7 +48,7 @@ git commit -m “type a message summarizing changes” (50 characters or less)
 
 git push - sends the commit to GitHub
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
 ### Nested list items not formatting correctly in Markdown
 > You can create multiple levels of nested lists but it appears to require exactly seven characters (␣␣␣␣␣-␣) before the nested list content if it is going to work correctly.

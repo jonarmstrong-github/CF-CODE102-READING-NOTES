@@ -24,7 +24,7 @@
 
 ### [Terminal Cheat Sheet](https://gist.github.com/cferdinandi/ef665330286fd5d7127d)
 
-## VOCABULAY
+## VOCABULARY
 
 VCS (Version Control System) - software that helps programmers manage changes to code
 
@@ -48,7 +48,7 @@ ACP - add, commit, push
 
 deployment - when code goes live
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
 ## PROBLEMS THAT HAVE TIMED OUT BEFORE RESOLUTION
 

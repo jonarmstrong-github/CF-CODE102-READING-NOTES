@@ -23,7 +23,7 @@
 
 [GIT Practice](https://www.katacoda.com/courses/git)
 
-## VOCABULAY
+## VOCABULARY
 Career Coaching
 
 Professional etiquette
@@ -36,7 +36,7 @@ Behavioral interview
 
 Review all professional competencies
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
 ## PROBLEMS THAT HAVE TIMED OUT BEFORE RESOLUTION
 

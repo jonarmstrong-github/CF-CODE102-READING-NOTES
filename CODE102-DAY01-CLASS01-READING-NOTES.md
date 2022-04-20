@@ -31,7 +31,7 @@ ___
 
 ### [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-## VOCABULAY
+## VOCABULARY
 Professional Competencies - Abilities desired in coding candidates
 
 Proficiencies - The underlying skills within a Competency
@@ -58,7 +58,7 @@ Path learning - ????
 
 Sandbox learning - a safe place to learn where risks are mitigated.
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 ### Heading syntax requires a space.
 
 > #### `####` The Heading

@@ -28,7 +28,7 @@
 
 [Mozilla HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-## VOCABULAY
+## VOCABULARY
 HTML (Hypertext Markup Language) -  the standard markup language for documents designed to be displayed in a web browser.
 
 Markup - a standard text-encoding system consisting of a set of symbols inserted in a text document to control its structure, formatting, or the relationship between its parts.
@@ -53,11 +53,11 @@ Attribute - provide additional information to an element.
 
 Structure vs Presentation - Structure is the semantics and presentation is how it is dressed up.
 
-Symantic elements - elements with a meaning.
+Symantec elements - elements with a meaning.
 
 Selector - In CSS selectors are patterns used to select the element you want to style.
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
 ## PROBLEMS THAT HAVE TIMED OUT BEFORE RESOLUTION
 

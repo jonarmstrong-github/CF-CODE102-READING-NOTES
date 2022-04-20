@@ -42,7 +42,7 @@ UA - User agent or for HTML, CSS, and JS the browser.
 
 ## LINKS
 
-## VOCABULAY
+## VOCABULARY
 CSS (Cascading Style Sheets) -  language used for describing the presentation of a document
 
 RGB (Red, Green, Blue) - The primary colors used in the display of light.
@@ -61,7 +61,7 @@ Property & value - a property is a attribute that can be defined and the value i
 
 Curly braces - } { } { } {
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
 ## PROBLEMS THAT HAVE TIMED OUT BEFORE RESOLUTION
 

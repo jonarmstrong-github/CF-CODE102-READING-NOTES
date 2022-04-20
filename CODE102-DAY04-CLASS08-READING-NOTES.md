@@ -41,7 +41,7 @@
 
 ## LINKS
 
-## VOCABULAY
+## VOCABULARY
 loop - loops run the same code over and over again with a different value.
 
 for - a statement that will repeat until false (or a specific number of times)
@@ -54,7 +54,7 @@ increment - an operator (++) that adds one to its operand and returns a new valu
 
 decrement - an operator (--) that subtracts one to its operand and returns a new value.
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
 ## PROBLEMS THAT HAVE TIMED OUT BEFORE RESOLUTION
 

@@ -35,7 +35,7 @@ Career Coaching covers these 7 interrelated areas of your professional growth:
 
 [401 Career Coaching Syllabus](https://codefellows.github.io/common_curriculum/career_coaching/401/)
 
-## VOCABULAY
+## VOCABULARY
 Career Coaching
 
 Professional etiquette
@@ -48,7 +48,7 @@ Behavioral interview
 
 Review all professional competencies
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
 ## PROBLEMS THAT HAVE TIMED OUT BEFORE RESOLUTION
 

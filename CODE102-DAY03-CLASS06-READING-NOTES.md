@@ -71,7 +71,7 @@
 ## LINKS
 [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
-## VOCABULAY
+## VOCABULARY
 JavaScript - a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.  (Not Java - an object-oriented programming language and has a virtual machine platform that allows you to create compiled programs that run on nearly every platform.)
 
 conditionals - supported logical conditions from mathematics
@@ -82,7 +82,7 @@ data types - an immutable value ([its complicated](https://developer.mozilla.org
 
 variable - a placeholder for a data type
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
 ## PROBLEMS THAT HAVE TIMED OUT BEFORE RESOLUTION
 

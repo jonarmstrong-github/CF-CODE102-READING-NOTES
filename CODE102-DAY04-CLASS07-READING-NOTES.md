@@ -34,7 +34,7 @@ Go to this page by Mozilla for [Expressions and operators](https://developer.moz
 
 ## LINKS
 
-## VOCABULAY
+## VOCABULARY
 Script - a sequence of instructions that is interpreted or carried out by another program.
 
 Programmatic problem solving - I'm guessing: is it using programs to solve problems?
@@ -57,7 +57,7 @@ Return value - when a value from a function back is passed back to the code that
 
 Refactoring - the process of changing a piece of code without altering how it works
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
 ## PROBLEMS THAT HAVE TIMED OUT BEFORE RESOLUTION
 
