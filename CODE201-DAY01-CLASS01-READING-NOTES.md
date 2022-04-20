@@ -5,7 +5,7 @@
 
 ### [HOME](README.md)
 
-## ADGENDA
+## AGENDA
 1. Introduction to Development
 1. Web Site with proper HTML, CSS, JavaScript Structure
 
@@ -38,9 +38,9 @@ Inline styling wins over all others.
 
 ## VOCABULARY
 
-Contanonate - the combining of strings
+Concatenate - the combining of strings
 
-## LEARNING THAT OCCURED AND PROBLEMS THAT ARE SOLVED
+## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
 ### Emmet
 Today I noticed that my Emmet was working the way it worked for others.  I found the link listed above which explained some default settings and allowed me to get Emmet working for me.  Possibly a blessing and a curse.
