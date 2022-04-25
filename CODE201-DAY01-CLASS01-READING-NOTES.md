@@ -10,22 +10,19 @@
 1. Web Site with proper HTML, CSS, JavaScript Structure
 
 ## READING
-Here are the chapters to read/skim before Class 1:
-
-From the Duckett HTML book:
-
-Introduction (pp.2-11)
+### From the Duckett HTML book:
+* Introduction (pp.2-11)
 * HTML Chapter 1: “Structure” (pp.12-39)
 * HTML Chapter 8: “Extra Markup” (p.176-199)
 * HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 * HTML Chapter 18: “Process & Design” (pp.452-475)
 
-From the Duckett JS book:
+### From the Duckett JS book:
 * Introduction
 * JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
 # READING NOTES
-## HTML Chapter 1: “Structure” (pp.12-39)
+## HTML/CSS Chapter 1: “Structure” (pp.12-39)
 BLOCK ELEMENTS
 > ```<HTML><BODY><H1><P>```
 
@@ -47,7 +44,7 @@ HEAD PROVIDES PAGE INFORMATION
 >
 > The title contains information displayed at the top of the browser window or tab.
 
-## HTML Chapter 8: “Extra Markup” (p.176-199)
+## HTML/CSS Chapter 8: “Extra Markup” (p.176-199)
 
 Every HTML element will carry a unique ID attribute.
 
@@ -59,7 +56,7 @@ Block elements create a new line for themselves.
 
 ```<SPAN CLASS="classification">```
 
-## HTML Chapter 17: “HTML5 Layout” (pp.428-451)
+## HTML/CSS Chapter 17: “HTML5 Layout” (pp.428-451)
 
 TRADITIONAL HTML LAYOUTS
 >```<BODY>```
@@ -103,7 +100,7 @@ NEW HTML5 LAYOUTS
 
 HTML5 may be a problem for older browsers.
 
-## HTML Chapter 18: “Process & Design” (pp.452-475)
+## HTML/CSS Chapter 18: “Process & Design” (pp.452-475)
 
 WHO IS THE SITE FOR?
 
@@ -143,7 +140,7 @@ HTML/CSS REFRESHER
 >THE DECLARATION BLOCK MAY CONTAIN MULTIPLE PROPERTIES AND THEIR VALUES.
 
 
-## JS Chapter 1: “The ABC of Programming” (pp.11-52)
+## JAVASCRIPT & JQUERY Chapter 1: “The ABC of Programming” (pp.11-52)
 
 ### THE ABCs OF PROGRAMMING
 
@@ -197,9 +194,6 @@ OBJECT
 > THE METHOD HOLD THE PARAMETERS "HELLO WORLD".
 > 
 
-
-
-
 ## CLASS NOTES
 
 All labs in 201 will require config files for GitHub.
@@ -232,6 +226,8 @@ Inline styling wins over all others.
 ## VOCABULARY
 
 Concatenate - the combining of strings
+
+## THINGS I WANT TO KNOW MORE ABOUT
 
 ## LEARNING THAT OCCURRED AND PROBLEMS THAT ARE SOLVED
 
@@ -277,7 +273,7 @@ JavaScript does not care whether you use single or double quotes in strings. Thi
 
 ### THIS TOOK HOURS.
 
-THE INSTRUCTIONS FOR READING NOTES STATE THAT IT SHOULD ONLY TAKE 15-30 MINUTES TO 'SKIM' A CHAPTER.  THERE WERE SIX CHAPTERS TODAY.  THAT CAME TO 3 HOURS.  TO BE HONEST IT TOOK MORE THAN THAT INCLUDING THE TIME AND EFFORT TO TAKE NOTES AND FORMAT THEM AND THE BREAKS REQUIRED DURING THE PROCESS.  WAS THE 4-5 HOURS OF EFFORT THIS TOOK REALIZED?  INDENTED?
+THE INSTRUCTIONS FOR READING NOTES STATE THAT IT SHOULD ONLY TAKE 15-30 MINUTES TO 'SKIM' A CHAPTER.  THERE WERE SIX CHAPTERS TODAY.  THAT CAME TO 3 HOURS.  TO BE HONEST IT TOOK MORE THAN THAT INCLUDING THE TIME AND EFFORT TO TAKE NOTES AND FORMAT THEM AND THE BREAKS REQUIRED DURING THE PROCESS.  WAS THE 4-5 HOURS OF EFFORT THIS TOOK REALIZED?  INTENDED?
 
 ### GitHub config files
 ~~In class we were told there were files that we would have to download and start putting into our repositories.  I am not entirely sure I was supposed to do this today as we did not create any new repositories but could not find the files.~~
