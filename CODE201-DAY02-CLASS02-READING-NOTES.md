@@ -1,6 +1,6 @@
 # CODE FELLOWS - CODE 201
 
-## DAY 01 CLASS 02
+## DAY 02 CLASS 02
 
 
 ### [HOME](README.md)
@@ -19,7 +19,7 @@
 * Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 
 ### Additional Resources
-https://chris.beams.io/posts/git-commit/
+[https://chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
 
 # READING NOTES
 ## HTML/CSS Chapter 2: “Text” (pp.40-61)
@@ -127,11 +127,6 @@ EVALUATING CONDITIONS WITH COMPARISON OPERATORS
 ```(OPERAND >= OPERAND)``` TWO OPERANDS WITH A COMPARISON OPERATOR IN BETWEEN.
 
 EVALUATING CONDITIONS WITH LOGICAL OPERATORS
-
-
-
-
-
 
 ## CLASS NOTES
 
