@@ -1,6 +1,6 @@
 # CODE FELLOWS - CODE 201
 
-## DAY 01 CLASS 02
+## DAY 07 CLASS 07
 
 
 ### [HOME](README.md)
@@ -9,18 +9,21 @@
 1.  OOP; HTML Tables
 1.  Convert literals to constructors; Dynamic table output
 
-## NOTES
+## READING
+### From the Duckett HTML book:
 
-### HTML & CSS:
-#### CHAPTER 2:
-#### CHAPTER 10:
+### From the Duckett JS book:
 
-### JAVASCRIPT:
-#### CHAPTER 2:
-#### CHAPTER 4:
+### Additional Resources
+
+# READING NOTES
+## HTML/CSS Chapter 
+
+## JAVASCRIPT & JQUERY Chapter 
+
+## CLASS NOTES
 
 ## LINKS
-[How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
 ## VOCABULARY
 
