@@ -46,7 +46,7 @@ Welcome to the repository where I store my digital class notes for Code Fellows.
 >## DAY 08
 >> ### [CLASS 08](./CODE201/DAY08-CLASS08-READING-NOTES.md) - More CSS Layout
 >## DAY 09
->> ### [CLASS 09](./CODE201/DAY09-CLASS09-READING-NOTES.md)Forms and Events
+>> ### [CLASS 09](./CODE201/DAY09-CLASS09-READING-NOTES.md) - Forms and Events
 >## DAY 10
 >> ### [CLASS 10](./CODE201/DAY10-CLASS10-READING-NOTES.md) - JS Debugging
 >## DAY 11
@@ -64,8 +64,16 @@ Welcome to the repository where I store my digital class notes for Code Fellows.
 # CODE 301 - Intermediate Software Development
 
 >## DAY 01
->> ### [CLASS 00](./CODE301/DAY01-CLASS00-READING-NOTES.md) - Reflect on Emotional Intelligence
->> ### [CLASS 01](./CODE301/DAY01-CLASS01-READING-NOTES.md) - Introductory HTML and JavaScript
+>> ### [CLASS 00](./CODE301/DAY01-CLASS00-READING-NOTES.md)
+>> ### [CLASS 01](./CODE301/DAY01-CLASS01-READING-NOTES.md)
 >## DAY 02
+>> ### [CLASS 02](./CODE301/DAY02-CLASS02-READING-NOTES.md)
+>## DAY 02
+>> ### [CLASS 03](./CODE301/DAY03-CLASS02-READING-NOTES.md)
+>## DAY 02
+>> ### [CLASS 04](./CODE301/DAY04-CLASS02-READING-NOTES.md)
+>## DAY 02
+>> ### [CLASS 05](./CODE301/DAY05-CLASS02-READING-NOTES.md)
 
-# CODE 401 - Advanced Software Development - Python
+
+# CODE 401 - Advanced Software Development
