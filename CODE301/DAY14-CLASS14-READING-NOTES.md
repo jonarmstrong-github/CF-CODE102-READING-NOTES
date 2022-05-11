@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. Diversity, Equity, Inclusion in Tech
+1. Final Exam
 
 ## READING
 

@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. React and Forms
+1. Filtering state based on form inputs, events
 
 ## READING
 

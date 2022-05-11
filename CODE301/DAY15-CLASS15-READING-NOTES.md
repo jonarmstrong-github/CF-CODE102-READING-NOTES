@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. Authentication
+1. Add OAuth to Full Stack App with React
 
 ## READING
 

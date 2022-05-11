@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. Persistence
+1. Implement in-memory cache for non-volatile API data
 
 ## READING
 

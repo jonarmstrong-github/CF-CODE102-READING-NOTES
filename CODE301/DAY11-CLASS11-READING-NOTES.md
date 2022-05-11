@@ -5,7 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
-
+1. Mongo, Mongoose and Data Modeling
+1. Implement READ (CRUD) with Mongo and Express
 ## READING
 
 ## ADDITIONAL RESOURCES

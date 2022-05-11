@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. Modularization, Refactoring
+1. Modularize Express API server
 
 ## READING
 

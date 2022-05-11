@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. APIs
+1. Retrieve and repurpose remote API data
 
 ## READING
 

@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. Creating and Deleting resources
+1. Implement Create and Delete (CRUD) in Full Stack App
 
 ## READING
 

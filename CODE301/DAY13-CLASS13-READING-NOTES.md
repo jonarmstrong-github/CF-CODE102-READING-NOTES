@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. Updating Resources
+1. Implement Update (CRUD) in Full Stack App
 
 ## READING
 

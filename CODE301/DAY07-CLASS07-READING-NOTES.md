@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. Express Servers
+1. Express API server with mock data
 
 ## READING
 

@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. Asynchronous Code and Third Party APIs
+1. Retrieve remote data from React
 
 ## READING
 

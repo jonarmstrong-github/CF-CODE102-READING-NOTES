@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. 	Conditional Rendering, Routing
+1. 	Portfolio - 3rd party application modifications
 
 ## READING
 
