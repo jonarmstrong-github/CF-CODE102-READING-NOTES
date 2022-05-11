@@ -69,11 +69,11 @@ Welcome to the repository where I store my digital class notes for Code Fellows.
 >## DAY 02
 >> ### [CLASS 02](./CODE301/DAY02-CLASS02-READING-NOTES.md)
 >## DAY 02
->> ### [CLASS 03](./CODE301/DAY03-CLASS02-READING-NOTES.md)
+>> ### [CLASS 03](./CODE301/DAY03-CLASS03-READING-NOTES.md)
 >## DAY 02
->> ### [CLASS 04](./CODE301/DAY04-CLASS02-READING-NOTES.md)
+>> ### [CLASS 04](./CODE301/DAY04-CLASS04-READING-NOTES.md)
 >## DAY 02
->> ### [CLASS 05](./CODE301/DAY05-CLASS02-READING-NOTES.md)
+>> ### [CLASS 05](./CODE301/DAY05-CLASS05-READING-NOTES.md)
 
 
 # CODE 401 - Advanced Software Development
