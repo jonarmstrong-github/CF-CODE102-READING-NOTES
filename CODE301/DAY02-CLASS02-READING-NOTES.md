@@ -5,6 +5,8 @@
 ### [HOME](../README.md)
 
 ## AGENDA
+1. React State and Props
+1. Create gallery of images from common state
 
 ## READING
 
