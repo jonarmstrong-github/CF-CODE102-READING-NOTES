@@ -62,6 +62,7 @@
 ## CLASS NOTES
 
 ## LINKS
+### [Class 03 GitHub](https://github.com/codefellows/seattle-code-301d85/tree/main/class-03)
 
 ## VOCABULARY
 

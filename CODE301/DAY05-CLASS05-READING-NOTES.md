@@ -17,6 +17,7 @@
 ## CLASS NOTES
 
 ## LINKS
+### [Class 05 GitHub](https://github.com/codefellows/seattle-code-301d85/tree/main/class-05)
 
 ## VOCABULARY
 
